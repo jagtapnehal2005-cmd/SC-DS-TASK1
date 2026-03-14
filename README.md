@@ -1,4 +1,4 @@
-# SCT_DS_1
+# SC-DS-TASK1
 
 ## SkillCraft Technology - Data Science Internship
 
